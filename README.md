@@ -39,4 +39,6 @@ It includes the devices that we need to build this project.
 	Python 3.7.3
 ### Python liberary requirements file
 	requirements.txt
+### Live555 for video stream
+	live555.tar.gz 
 
