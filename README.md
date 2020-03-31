@@ -1,16 +1,16 @@
 # Devices List 
 It includes the devices that we need to build this project.
-Camera
-female2female jumpwire
-fishing wire
-flag
-M2.5 Nuts
-M2.5 screws
-monkey toy
-power supply
-RPi 4B
-stepper motor kit
-TF card
+* Camera
+* female2female jumpwire
+* fishing wire
+* flag
+* M2.5 Nuts
+* M2.5 screws
+* monkey toy
+* power supply
+* RPi 4B
+* stepper motor kit
+* TF card
 ## System Info
 ### OS
 	Distributor ID:	Raspbian
